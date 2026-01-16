@@ -7,9 +7,9 @@
 7. npm install dotenv (for environment variable)
 8. npm install nodemon (for auto server restart)
 9. create .env file at root directory and type PORT=8080 in it.
-10. create .gitignore file at root directory and type node_modules and .env in it in different lines.
+10. create .gitignore file at root directory (in vs code select a new file named .gitignore) and put the names: node_modules and .env inide this file at separate lines.
 11. create a new file at root directory: server.js
-12. setup express app and server.
+12. setup express app and server by editing codes inside this file.
 13. then setup routes
 14. create public and views folder and create all html files in views folder.
 15. all css, js, images, assets should be inside public folder.
